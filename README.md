@@ -7,7 +7,7 @@ The system supports dynamic modification of the tree, conversion to a graph repr
 
 ## Tree Functionality
 
-Constructs a tree from input file data representing program execution stacks
+Constructs a tree from an input file containing program execution stack data
 
 Supports adding and removing stack nodes
 
