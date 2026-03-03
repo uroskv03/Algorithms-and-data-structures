@@ -1,10 +1,11 @@
 # Algorithms and Data Structures – Trees and Graphs
-# Overview
+
+## Overview
 
 This project implements a tree structure constructed from a file containing program stack data.
 The system supports dynamic modification of the tree, conversion to a graph representation, and traversal using standard graph algorithms.
 
-# Tree Functionality
+## Tree Functionality
 
 Constructs a tree from input file data representing program execution stacks
 
@@ -16,7 +17,7 @@ Performs proper memory deallocation
 
 Implements Preorder traversal
 
-# Graph Functionality
+## Graph Functionality
 
 Converts the constructed tree into a graph representation
 
@@ -26,10 +27,8 @@ Detects recursive calls within the graph
 
 Prints the graph using Breadth-First Search (BFS) traversal
 
-# Technologies
+## Technologies
 
 C++
-
-Manual memory management
 
 Tree and graph algorithms
