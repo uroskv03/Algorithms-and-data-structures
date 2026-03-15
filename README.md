@@ -29,6 +29,6 @@ Prints the graph using Breadth-First Search (BFS) traversal
 
 ## Technologies
 
-C++
+*  C++
 
-Tree and graph algorithms
+*  Tree and graph algorithms
